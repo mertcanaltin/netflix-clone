@@ -1,2 +1,1 @@
-# netflix-clone
-netflix landing page clone
+# Netflix Clone
