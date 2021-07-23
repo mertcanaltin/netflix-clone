@@ -11,8 +11,10 @@ yarn start
  ![alt text](photos/home.png)
  
  Sign : https://netflix-clone-cans.vercel.app/sign
+ ![alt text](photos/sign.png)
 
  Browse : https://netflix-clone-cans.vercel.app/browse
+ ![alt text](photos/browse.png)
  
  List : coming soon
  
