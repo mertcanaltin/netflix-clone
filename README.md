@@ -5,7 +5,7 @@ yarn install
 yarn start
 
 
-#Pages 
+# Pages 
 
  Home : https://netflix-clone-cans.vercel.app/
  
@@ -14,3 +14,5 @@ yarn start
  Browse : https://netflix-clone-cans.vercel.app/browse
  
  List : coming soon
+ 
+ Movie : coming soon
