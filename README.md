@@ -1,4 +1,4 @@
-# Netflix Clone
+# ReactJs Netflix Clone
 
 yarn install
 
