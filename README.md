@@ -8,6 +8,7 @@ yarn start
 # Pages 
 
  Home : https://netflix-clone-cans.vercel.app/
+ ![alt text](photos/home.png)
  
  Sign : https://netflix-clone-cans.vercel.app/sign
 
