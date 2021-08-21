@@ -10,7 +10,9 @@ export default function Sign() {
         <div>
             <div className='showcase'>
         <div className="logo">
-          <img src="https://i.ibb.co/r5krrdz/logo.png" />
+          <a href="/">
+            <img src="https://i.ibb.co/r5krrdz/logo.png" />
+            </a>
         </div>
         <div className="showcase-content">
           <div className="formm">
